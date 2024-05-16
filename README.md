@@ -44,6 +44,11 @@ yarn
 npm start
 ```
 
+### Screenshots
+
+[<img src="https://drive.google.com/file/d/1btVVb1CDVICr65KipCP15lzROkQglk2T/view?usp=sharing" alt="Home UI" height="80">]
+
+
 ## Usage
 
 - Launch the app on two separate devices.
